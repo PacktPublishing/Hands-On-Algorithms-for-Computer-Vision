@@ -1,2 +1,1 @@
-# Hands-On-Algorithms-for-Computer-Vision
-Hands-On Algorithms for Computer Vision, published by Packt
+# The code for this repository is under development :construction_worker:
