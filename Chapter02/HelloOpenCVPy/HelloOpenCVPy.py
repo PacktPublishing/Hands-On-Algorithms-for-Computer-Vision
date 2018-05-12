@@ -4,7 +4,7 @@
 # Otherwise use the following
 import cv2
 
-image = cv2.imread("d:/onedrive/me.jpg") #, cv2.IMREAD_GRAYSCALE)
+image = cv2.imread("Test.png")
 if image is not None :
     cv2.imshow("image", image)
     cv2.waitKey()
