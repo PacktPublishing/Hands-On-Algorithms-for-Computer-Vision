@@ -41,12 +41,12 @@ With the following software and hardware list you can run all code files present
 ### Software and Hardware List
 | Chapter | Software required | OS required |
 | -------- | ------------------------------------ | ----------------------------------- |
-| 1 | Microsoft Visual Studio 2017 or 2015 | Windows, Mac OS X, and Linux (Any) |
-| 2 | Xcode | Mac OS X |
-| 3 | Visual Studio Code 1.25  | Windows, Mac OS X, and Linux (Any) |
-| 4 | CMake 3.11.4 | Windows, Mac OS X, and Linux (Any) |
-| 5 | Python 3.6.5 | Windows, Mac OS X, and Linux (Any) |
-| 7 | OpenCV 3.4.2  | Windows, Mac OS X, and Linux (Any) |
+| 2-8 | Microsoft Visual Studio 2017 or 2015 | Windows, Mac OS X, and Linux (Any) |
+| 2-8 | Xcode | Mac OS X |
+| 2-8 | Visual Studio Code 1.25  | Windows, Mac OS X, and Linux (Any) |
+| 2-8 | CMake 3.11.4 | Windows, Mac OS X, and Linux (Any) |
+| 2-8 | OpenCV 3.4.2  | Windows, Mac OS X, and Linux (Any) |
+| 2-8 | Python 3.6.5 | Windows, Mac OS X, and Linux (Any) |
 
 We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](https://www.packtpub.com/sites/default/files/downloads/HandsOnAlgorithmsforComputerVision_ColorImages.pdf).
 
