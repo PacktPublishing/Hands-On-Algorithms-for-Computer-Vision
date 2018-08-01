@@ -14,10 +14,10 @@ Get to grips with machine learning and artificial intelligence algorithms
 Read, write, and process images and videos 
 Perform mathematical, matrix, and other types of image data operations 
 Create and use histograms from back-projection images 
-Detect motion, extract foregrounds, and track objects  
+Detect motion, extract foregrounds, and track objects.  
 Extract key points with a collection of feature detector algorithms 
 Develop cascade classifiers and use them, and train and test classifiers 
-Employ TensorFlow Object Detection to detect multiple objects 
+Employ TensorFlow Object Detection to detect multiple objects. 
 
 If you feel this book is for you, get your [copy](https://www.amazon.com/dp/1789130948) today!
 
